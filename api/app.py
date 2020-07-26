@@ -1,6 +1,3 @@
-# export SPOTIPY_CLIENT_ID='f19b67efd7624572931050b299f0a25d'
-# export SPOTIPY_CLIENT_SECRET='085e7d3fd56b4cad8b63e7d499b1579f'
-
 import json, spotipy, sys
 from flask import Flask, request
 from flask_cors import CORS
