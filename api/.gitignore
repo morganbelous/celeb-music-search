@@ -5,7 +5,6 @@
 
 # Spotify Cache
 .spotifycache
-/spotipy
 
 # C extensions
 *.so
