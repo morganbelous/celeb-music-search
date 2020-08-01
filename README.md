@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  Celebrity Music Search
 
+This project was created for the HobbyHacks hackathon hosted by TechTogether in July 2020.  It is a web app built with React and a python Flask backend. Using face recognition technology, a user can enter an image URL of a celebrity to find their top Spotify tracks!
 
 First, get a client and secret key from [Spotify](https://developer.spotify.com/dashboard/applications).
-
 
 To run the app locally:
 1. clone the repository
@@ -15,3 +15,9 @@ To run the app locally:
 4. In celeb-music-search window enter the following to start the React app:
 - npm install
 - npm start
+
+![](screenshot-1.png)
+
+![](screenshot-2.png)
+
+![](screenshot-3.png)
